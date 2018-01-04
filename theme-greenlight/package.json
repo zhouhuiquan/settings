@@ -1,0 +1,15 @@
+{
+	"name": "theme-greenlight",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Green",
+				"uiTheme": "vs",
+				"path": "./themes/greenlight-color-theme.json"
+			}
+		]
+	}
+}
